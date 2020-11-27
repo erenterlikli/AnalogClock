@@ -1,0 +1,10 @@
+C:\Users\Eren\source\repos\AnalogSaat\bin\Debug\AnalogSaat.exe.config
+C:\Users\Eren\source\repos\AnalogSaat\bin\Debug\AnalogSaat.exe
+C:\Users\Eren\source\repos\AnalogSaat\bin\Debug\AnalogSaat.pdb
+C:\Users\Eren\source\repos\AnalogSaat\obj\Debug\AnalogSaat.csprojAssemblyReference.cache
+C:\Users\Eren\source\repos\AnalogSaat\obj\Debug\AnalogSaat.Form1.resources
+C:\Users\Eren\source\repos\AnalogSaat\obj\Debug\AnalogSaat.Properties.Resources.resources
+C:\Users\Eren\source\repos\AnalogSaat\obj\Debug\AnalogSaat.csproj.GenerateResource.cache
+C:\Users\Eren\source\repos\AnalogSaat\obj\Debug\AnalogSaat.csproj.CoreCompileInputs.cache
+C:\Users\Eren\source\repos\AnalogSaat\obj\Debug\AnalogSaat.exe
+C:\Users\Eren\source\repos\AnalogSaat\obj\Debug\AnalogSaat.pdb
